@@ -1,6 +1,6 @@
 ### Hi there 👋
   👋 Hi, I'm Nitsuh Tadesse, a budding developer passionate about crafting digital solutions. 🚀 My GitHub is a playground of projects where I explore web development and software engineering. 💻 MyGitHub is where i share my early projects, mostly focusing on HTML, CSS, AND jAVAsCRIPT. Currently diving into like react, JavasScript, and Node.js, I'm eager to collaborate and contribute to the tech community. Let's connect and create something amazing together! 🌐
-
+https://github.com/ntadesse01/ntadesse01/blob/main/183502751-f29645f1-ccb4-408b-be1d-c6ef31649345.png
  
 
 ### Hi there 👋, Nitsuh Tadesse
