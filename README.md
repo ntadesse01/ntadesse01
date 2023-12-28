@@ -1,4 +1,3 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ntadesse01)] https://github.com/ntadesse01/ntadesse01/blob/main/183502751-f29645f1-ccb4-408b-be1d-c6ef31649345.png
  
  
 
