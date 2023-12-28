@@ -1,5 +1,5 @@
  
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]( https://github.com/ntadesse01/ntadesse01/blob/main/download.png)
+ [![my]( https://github.com/ntadesse01/ntadesse01/blob/main/download.png)
  
 
 
